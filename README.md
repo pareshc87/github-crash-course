@@ -1,3 +1,5 @@
 ## A sample project to practice hands-on Git and GitHub Actions
-> Course: Udemy
-> Start date: 13 Oct 2024
+> Start Date: October 13, 2024
+### Udemy course name: GitHub Actions - The Complete Guide
+
+#### Service Catalog
